@@ -1,0 +1,3 @@
+/home/roman/lab12/_build/CMakeFiles/rebuild_cache.dir
+/home/roman/lab12/_build/CMakeFiles/edit_cache.dir
+/home/roman/lab12/_build/CMakeFiles/main.dir

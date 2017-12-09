@@ -4,4 +4,5 @@ script:
 - cmake -H. -B_build
 - cmake --build _build
 - cd _build
-- ./main https://yandex.ru
+- ./main https://mail.ru
+
