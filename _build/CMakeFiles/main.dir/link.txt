@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/main.dir/main.cpp.o  -o main -rdynamic /home/roman/.hunter/_Base/f810eb3/e1266bb/83da1ac/Install/lib/libcurl.a /home/roman/.hunter/_Base/f810eb3/e1266bb/83da1ac/Install/lib/libssl.a /home/roman/.hunter/_Base/f810eb3/e1266bb/83da1ac/Install/lib/libcrypto.a -lpthread -ldl /home/roman/.hunter/_Base/f810eb3/e1266bb/83da1ac/Install/lib/libzd.a 
