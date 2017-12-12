@@ -6,7 +6,7 @@
 
 ## Terminal:
 ```ShellSession
-$ ./main https://yandex.ru
-Redirect to: https://yandex.ru/
+$ ./main https://main.ru
+Redirect to: https://main.ru/
 Код ответа: 200
 ```
